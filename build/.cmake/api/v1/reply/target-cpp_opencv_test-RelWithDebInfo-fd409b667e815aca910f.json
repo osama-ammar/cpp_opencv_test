@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Debug/cpp_opencv_test.exe"
+			"path" : "RelWithDebInfo/cpp_opencv_test.exe"
 		},
 		{
-			"path" : "Debug/cpp_opencv_test.pdb"
+			"path" : "RelWithDebInfo/cpp_opencv_test.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -29,19 +29,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 12,
+				"line" : 11,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 14,
+				"line" : 13,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 10,
+				"line" : 9,
 				"parent" : 0
 			}
 		]
@@ -52,7 +52,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1"
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG"
 				}
 			],
 			"includes" : 
@@ -82,7 +82,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1",
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG",
 				"role" : "flags"
 			},
 			{
@@ -91,82 +91,82 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460d.lib",
+				"fragment" : "C:\\opencv\\build\\x64\\vc15\\lib\\opencv_world460.lib",
 				"role" : "libraries"
 			},
 			{
