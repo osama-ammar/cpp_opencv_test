@@ -1,0 +1,10 @@
+^D:\CODE_STORE\CPP_OPENCV_TEST\BUILD\CMAKEFILES\260712147C376020B1A576264F7EA7EC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Code_store/cpp_opencv_test -BD:/Code_store/cpp_opencv_test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Code_store/cpp_opencv_test/build/cpp_opencv_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

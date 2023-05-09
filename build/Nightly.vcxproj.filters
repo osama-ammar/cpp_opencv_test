@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Code_store\cpp_opencv_test\build\CMakeFiles\260712147c376020b1a576264f7ea7ec\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Code_store\cpp_opencv_test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Code_store\cpp_opencv_test\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{54F099F0-6EE4-354A-8CBA-5CB4D3831F5D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
